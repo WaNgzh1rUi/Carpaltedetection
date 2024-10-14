@@ -1,4 +1,4 @@
-
+![image](https://github.com/WaNgzh1rUi/Wang-repository/tree/master/images)
 
 基于YOLOv8的车牌识别代码，可以直接运行（图片和视频都可以识别）
 data.yaml 里面的文件路径需要替换为自己的本地路径，否则会报错
